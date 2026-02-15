@@ -1,7 +1,7 @@
 {
   "site": {
-    "pageTitle": "Interactive Literature Database",
-    "pageSubtitle": "Journal of the Learning Sciences",
+    "pageTitle": "Journal of the Learning Sciences (JLS)",
+    "pageSubtitle": "Interactive Literature Database",
     "heroHeading": "Database Title",
     "submitButtonText": "Submit an Article",
     "submitButtonLink": "https://forms.gle/42GckNJQ4EVMdHDr7"
@@ -51,7 +51,7 @@
     "favicon": "assets/uploads/signpost-2.svg"
   },
   "colors": {
-    "primaryAccent": "#8F250C",
-    "secondaryAccent": "#EF8A17"
+    "primaryAccent": "#360e50",
+    "secondaryAccent": "#86172d"
   }
 }
